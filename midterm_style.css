@@ -520,7 +520,7 @@
 .section5 {
     width: 100%;
     height: 100vh;
-    background-image: url(images/skillsbg.jpg);
+    background-image: url(img_section5/skillsbg.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
